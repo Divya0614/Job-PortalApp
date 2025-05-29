@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "oommaa_abroad",
+            "cwd": "oommaa_abroad",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "oommaa_abroad (profile mode)",
+            "cwd": "oommaa_abroad",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "oommaa_abroad (release mode)",
+            "cwd": "oommaa_abroad",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
